@@ -55,3 +55,18 @@ section#login > div#form{
     display: block;
     padding: 10px;
 }
+
+div#form > h1{
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+div#form > p{
+    font-size: 0.8em;
+}
+
+div#form > p > span{
+    display: block;
+    margin-top: 5px;
+}
